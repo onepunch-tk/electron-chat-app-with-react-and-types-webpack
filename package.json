@@ -21,7 +21,7 @@
     "forge": {
       "packagerConfig": {
         "extraResource": [
-          "./src/copyfiles/"
+          "./src/extraResources/"
         ]
       },
       "makers": [
